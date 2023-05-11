@@ -37,7 +37,7 @@ npm i -D @vitest/ui
 "tests" = "vitest --ui --api 9527"
 ```
 
-## Add src/test and create this tests
+## Add src/tests and create this test
 ```bash
 import { describe, it } from "vitest";
 
