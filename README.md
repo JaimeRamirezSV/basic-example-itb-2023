@@ -1,4 +1,4 @@
-# basic-example-itb-2023
+# Basic example
 This is the basic example to create a vue/vite project and integrate vitest
 
 # Use node 18+
