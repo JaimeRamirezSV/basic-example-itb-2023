@@ -1,9 +1,11 @@
 # basic-example-itb-2023
 This is the basic example to create a vue/vite project and integrate vitest
 
+# Use node 18+
+
 ## Create the base project
 ```bash
-npm create vite@latest ITB-2023 -- --template vue
+npm create vite@latest ITB-2023 --template vue
 ```
 
 ## Install vitest
