@@ -36,7 +36,7 @@ npm i -D @vitest/ui
 
 ## Update package.json
 ```bash
-"tests" = "vitest --ui --api 9527"
+"tests" : "vitest --ui --api 9527"
 ```
 
 ## Add src/tests and create this test
