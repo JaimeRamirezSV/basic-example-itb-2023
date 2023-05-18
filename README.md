@@ -39,7 +39,7 @@ npm i -D @vitest/ui
 "tests" : "vitest --ui --api 9527"
 ```
 
-## Add src/tests and create this test
+## Add src/tests and create this example.test.js
 ```bash
 import { describe, it } from "vitest";
 
