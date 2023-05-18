@@ -5,7 +5,7 @@ This is the basic example to create a vue/vite project and integrate vitest
 
 ## Create the base project
 ```bash
-npm create vite@latest ITB-2023 --template vue
+npm create vite@latest ITB-2023 -- --template vue
 ```
 
 ## Install vitest
